@@ -41,4 +41,7 @@ Below is the workflow I create on VAPI:
 
 <img width="1193" alt="Screenshot 2025-05-14 at 3 25 07 PM" src="https://github.com/user-attachments/assets/f149cc52-7dc0-406d-983a-7c4b752ce148" />
 <img width="1191" alt="Screenshot 2025-05-14 at 3 25 26 PM" src="https://github.com/user-attachments/assets/d4d0da37-12dc-47aa-a192-1fcb50c2918d" />
+<img width="1193" alt="Screenshot 2025-05-14 at 3 28 25 PM" src="https://github.com/user-attachments/assets/8238544b-35de-41f4-9fd0-8ad82056a69d" />
+<img width="1189" alt="Screenshot 2025-05-14 at 3 28 43 PM" src="https://github.com/user-attachments/assets/5ef1bc41-6034-477a-b337-c02c549cd26e" />
+<img width="1191" alt="Screenshot 2025-05-14 at 3 29 00 PM" src="https://github.com/user-attachments/assets/d4d41054-c2ba-45c2-86f0-beb3a0d93993" />
 

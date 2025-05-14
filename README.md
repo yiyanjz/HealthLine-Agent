@@ -12,7 +12,7 @@ This project is a working demo of a conversational AI phone agent designed to st
 - pip3 install Sendgrid
 - pip3 install Python
 - pip3 install requests
-- pip3 install ngrok
+- brew install ngrok
 
 # Set Environment Variables
 - SENDGRID_API_KEY=your_sendgrid_api_key
@@ -24,6 +24,9 @@ This project is a working demo of a conversational AI phone agent designed to st
 
 # Summary and Take-Aways of this project
 - For front-end workflow I choose to use a third-party API called Vapi AI and used it to commucated with my back-end file called api.py.
+- For back-end I used ngrok which allows me to run python local but using ngrok a tool that allows me to expose a local server (running on your computer or a private network) to the internet through a secure tunnel.
+- ngrok config add-authtoken <token>
+- ngrok http http://localhost:your_running_port
 
 
 # Changes I would make

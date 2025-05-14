@@ -38,16 +38,13 @@ Because of the instability caused by these constant changes — including the re
 
 <img width="241" alt="Screenshot 2025-05-14 at 3 24 14 PM" src="https://github.com/user-attachments/assets/97870fd3-f1b7-41b3-9533-a47837179ecf" />
 <img width="773" alt="Screenshot 2025-05-14 at 3 24 55 PM" src="https://github.com/user-attachments/assets/903039a6-931f-4050-a2c3-2e0f8e88ffcb" />
-
-
-Hosted Phone Number
-- +1 (239) 264 1967
-
-
 <img width="329" alt="Screenshot 2025-05-14 at 3 09 15 PM" src="https://github.com/user-attachments/assets/c406ab81-37c0-40a6-8a4b-2806197d7885" />
 
 
-Below is the workflow I create on VAPI:
+# Hosted Phone Number
+- +1 (239) 264 1967
+
+# Below is the workflow I create on VAPI:
 - Video availble in files
 
 <img width="1193" alt="Screenshot 2025-05-14 at 3 25 07 PM" src="https://github.com/user-attachments/assets/f149cc52-7dc0-406d-983a-7c4b752ce148" />

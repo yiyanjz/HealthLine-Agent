@@ -36,3 +36,6 @@ Because of the instability caused by these constant changes — including the re
 
 
 Below is the workflow I create on VAPI:
+<img width="524" alt="Screenshot 2025-05-14 at 3 21 54 PM" src="https://github.com/user-attachments/assets/8511b567-b65e-41ab-b8c9-147950a72086" />
+<img width="577" alt="Screenshot 2025-05-14 at 3 22 08 PM" src="https://github.com/user-attachments/assets/9376e137-1ba1-41e0-a383-beeee2a7ef45" />
+<img width="567" alt="Screenshot 2025-05-14 at 3 22 23 PM" src="https://github.com/user-attachments/assets/5bb58eba-5ea4-4dd7-b57b-a4848f95348e" />

@@ -33,6 +33,10 @@ The only issue with this model is the slightly inaccurate collection of user ema
 I do not recommend using VAPI AI for front-end workflow development due to their ongoing and unpredictable changes to available nodes. The current workflow includes nodes like "Say" and "Gather" — where the "Say" node facilitates communication with the user, and the "Gather" node collects input to be passed to an API node (as shown in the image below). However, VAPI frequently makes unannounced changes, removing or modifying key nodes without any documentation or notice. Even their AI assistant is often unaware of these updates.
 Because of the instability caused by these constant changes — including the removal of essential nodes like "Say" and "Gather" — VAPI AI proves to be an unreliable platform for building AI agents. For this reason, I strongly advise against using it for any serious development work.
 
+<img width="241" alt="Screenshot 2025-05-14 at 3 24 14 PM" src="https://github.com/user-attachments/assets/97870fd3-f1b7-41b3-9533-a47837179ecf" />
+<img width="773" alt="Screenshot 2025-05-14 at 3 24 55 PM" src="https://github.com/user-attachments/assets/903039a6-931f-4050-a2c3-2e0f8e88ffcb" />
+
+
 Hosted Phone Number
 - +1 (239) 264 1967
 
